@@ -43,6 +43,11 @@
       <version>1.4.10</version>
       <scope>test</scope>
     </dependency>
+<dependency>
+    <groupId>org.drools</groupId>
+    <artifactId>drools-scenario-simulation-backend</artifactId>
+    <version>7.52.0.Final</version>
+</dependency>
   </dependencies>
   <build>
     <plugins>
